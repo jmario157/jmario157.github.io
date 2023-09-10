@@ -1,0 +1,152 @@
+[
+    {
+        "id": "Madera en Bruto-01",
+        "title": "Tronco de Madera",
+        "img": "./img/1.jpg",
+        "categoria": {
+            "nombre": "Tronco de Madera",
+            "id": "Madera en Bruto"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera en Bruto-02",
+        "title": "Tronco de Madera",
+        "img": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Tronco de Madera",
+            "id": "Madera en Bruto"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera en Bruto-03",
+        "title": "Tronco de Madera",
+        "img": "./img/3.jpg",
+        "categoria": {
+            "nombre": "Tronco de Madera",
+            "id": "Madera en Bruto"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera en Bruto-04",
+        "title": "Tronco de Madera",
+        "img": "./img/4.jpg",
+        "categoria": {
+            "nombre": "Tronco de Madera",
+            "id": "Madera en Bruto"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera en Bruto-05",
+        "title": "Tronco de Madera",
+        "img": "./img/5.jpg",
+        "categoria": {
+            "nombre": "Tronco de Madera",
+            "id": "Madera en Bruto"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera Acerrada-06",
+        "title": "Tablones de Madera",
+        "img": "./img/6.jpg",
+        "categoria": {
+            "nombre": "Tablones de Madera",
+            "id": "Madera Acerrada"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera Acerrada-07",
+        "title": "Tablones de Madera",
+        "img": "./img/7.jpg",
+        "categoria": {
+            "nombre": "Tablones de Madera",
+            "id": "Madera Acerrada"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera Acerrada-08",
+        "title": "Tablones de Madera",
+        "img": "./img/8.jpg",
+        "categoria": {
+            "nombre": "Tablones de Madera",
+            "id": "Madera Acerrada"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera Acerrada-09",
+        "title": "Tablones de Madera",
+        "img": "./img/9.jpg",
+        "categoria": {
+            "nombre": "Tablones de Madera",
+            "id": "Madera Acerrada"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera Acerrada-10",
+        "title": "Tablones de Madera",
+        "img": "./img/10.jpg",
+        "categoria": {
+            "nombre": "Tablones de Madera",
+            "id": "Madera Acerrada"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera de Carpinteria-11",
+        "title": "Madera Laminada",
+        "img": "./img/11.jpg",
+        "categoria": {
+            "nombre": "Madera Laminada",
+            "id": "Madera de Carpinteria"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera de Carpinteria-12",
+        "title": "Madera Laminada",
+        "img": "./img/12.jpg",
+        "categoria": {
+            "nombre": "Madera Laminada",
+            "id": "Madera de Carpinteria"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera de Carpinteria-13",
+        "title": "Madera Laminada",
+        "img": "./img/13.jpg",
+        "categoria": {
+            "nombre": "Madera Laminada",
+            "id": "Madera de Carpinteria"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera de Carpinteria-14",
+        "title": "Madera Laminada",
+        "img": "./img/14.jpg",
+        "categoria": {
+            "nombre": "Madera Laminada",
+            "id": "Madera de Carpinteria"
+        },
+        "price": 500
+    },
+    {
+        "id": "Madera de Carpinteria-15",
+        "title": "Madera Laminada",
+        "img": "./img/15.jpg",
+        "categoria": {
+            "nombre": "Madera Laminada",
+            "id": "Madera de Carpinteria"
+        },
+        "price": 500
+    }
+]

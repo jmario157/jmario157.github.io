@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WOODEXPRESS</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header class="mobile-header">
+            <h1 class="logo">WOODEXPRESS</h1>
+            <button id="open-menu" class="open-menu"><i class="bi bi-list"></i></button>
+        </header>
+        <aside>
+            <button id="close-menu" class="close-menu"><i class="bi bi-x"></i></button>
+            <header>
+                <h1 class="logo">WOODEXPRESS</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li><a class="btn-menu btn-back" href="./index.html"><i class="bi bi-arrow-return-left"></i>Seguir Comprando</a></li>
+                    <li><a class="btn-menu btn-car active" href="./carrito.html"><i class="bi bi-cart-fill"></i>Carrito</a></li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="txt-footer">© WOODEXPRESS 2023</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="main-title">Carrito de Compras</h2>
+            <div class="car-container">
+                <p id="empty-car" class="empty-car">Tu carrito esta vacio <i class="bi bi-emoji-frown"></i></p>
+                <div id="productss-car" class="productss-car disabled">
+                </div>
+
+                <div id="actions-car" class="actions-car disabled">
+                    <div class="left-action">
+                        <button id="dlt-actions-car" class="dlt-actions-car">Vaciar Carrito</button>
+                    </div>
+                    <div class="right-action">
+                        <div class="total-actions-car">
+                            <p>Total: </p>
+                            <p id="total">$.1000.00</p>
+                            <button id="buy-actions-car" class="buy-actions-car">Comprar Ahora</button>
+                        </div>
+                    </div>
+                </div>
+                <p id="full-car" class="full-car disabled">Gracias por tu compra, vuelve pronto. <i class="bi bi-check2-square"></i></p>
+            </div>
+        </main>
+    </div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>
